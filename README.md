@@ -1,4 +1,5 @@
-Voici notre TD4, nous avons tous fais, y compris les bonus.
-
-Pour le caching , nous avons utilisé le framework Carlos.
+This project has be done during my last year at university. I had fun doing that iOS app.
+With that project, I have learned doing some xml file and image caching thanks to Carlos and sdWebImage frameworks.
+I have manipulated the tableViewcontroller. I have also done a form and use the NSRegularExpression Object to control the user's input.
+Finally, I also learned how to load the right data according to the system language.
 
