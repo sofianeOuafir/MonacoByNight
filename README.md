@@ -1,4 +1,4 @@
-<h1 style="text-align:center"> MonacoByNight - iOS 
+<h1> MonacoByNight - iOS 
 </h1>
 
 <h2>Libraries and components:</h2>
