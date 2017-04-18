@@ -1,4 +1,4 @@
-<h1> MonacoByNight - iOS appProject using Carlos and SDWebImage for Image and XML caching, TableViewController, NSRegularExpression, webViewController.
+<h1> MonacoByNight - iOS 
 </h1>
 
 <h2>Libraries and components:</h2>
