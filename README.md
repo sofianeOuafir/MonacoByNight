@@ -13,20 +13,20 @@
 </ul>
 
 ![alt tag](https://github.com/sofianeOuafir/monaco-by-night/blob/master/1.png?raw=true)
-</br>
-</br>
+<br>
+<br>
 ![alt tag](https://github.com/sofianeOuafir/monaco-by-night/blob/master/2.png?raw=true)
-</br>
-</br>
+<br>
+<br>
 ![alt tag](https://github.com/sofianeOuafir/monaco-by-night/blob/master/3.png?raw=true)
-</br>
-</br>
+<br>
+<br>
 ![alt tag](https://github.com/sofianeOuafir/monaco-by-night/blob/master/4.png?raw=true)
-</br>
-</br>
+<br>
+<br>
 ![alt tag](https://github.com/sofianeOuafir/monaco-by-night/blob/master/5.png?raw=true)
-</br>
-</br>
+<br>
+<br>
 ![alt tag](https://github.com/sofianeOuafir/monaco-by-night/blob/master/6.png?raw=true)
 
 
