@@ -1,9 +1,8 @@
 <h1> MonacoByNight - iOS 
 </h1>
+<p>Mobile application that provide informations about nice places to visit in Monaco. </p> 
 
 <h2>Libraries and components:</h2>
-
-<p>Mobile application that provide informations about nice places to visit in Monaco. </p> 
 
 <ul>
 <li>Carlos library - for xml file caching</li>
